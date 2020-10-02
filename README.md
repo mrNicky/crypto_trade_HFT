@@ -1,4 +1,4 @@
-# crypto_trade_thf
+# crypto_trade_hft
 Just simulation of how to make money in crypto world with 1000 dollars
 
 
