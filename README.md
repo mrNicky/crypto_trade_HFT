@@ -12,7 +12,7 @@ python3 main.py YOUR_CODE_COIN
 You can find code crypto here: 
 https://coinmarketcap.com/
 
-9dollars in 1hour, but we have to wait, and test. Accrding to the average commission brokers (0.1%) like bittrex, we define 0.25% for selling, so we make 0.15% by each trade, if we increase this rate, we make less trades, in the other hand, if we descrease this rate, we make more trades but with less benefits.
+9dollars in 3 hours, but we have to wait, and test. According to the average commission brokers (0.1%) like bittrex, we define 0.25% rate for selling, so we make 0.15% by each trade, if we increase this rate, we make less trades, in the other hand, if we descrease this rate, we make more trades but with less benefits.
 To improvement this code we can define the optimal rate depend on crypto type, volume, volatily...More volatily is good because we can increase our rate !
 
 
