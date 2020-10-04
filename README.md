@@ -20,9 +20,9 @@ To improvement this code we can define the optimal rate depend on crypto type, v
 
 - I use free api with limits, but you can subscribe a Premium API...
 
-- Every second, we check the price with this code, one improvement is to is kafka streaming and scala or python to perform transactions with milliseconds
+- Every second, we check the price with this code, one improvement is to use kafka streaming and scala or python to perform transactions with milliseconds instead of seconds
 
-- Use leverage with stoploss
+- Use leverage with stop loss
 
 - Make somes predictions
 
